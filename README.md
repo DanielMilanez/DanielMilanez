@@ -1,60 +1,54 @@
-<h1 align="center">
+<h2 align="center">
     Oi, tudo bem? Eu sou o 
-    <a href="https://www.youtube.com/@mitchzito" target="_blank">Daniel Augusto</a>
-</h1>
+    <a href="https://www.instagram.com/oi.guto" target="_blank">Daniel Augusto</a>
+</h2>
 
 <p align="center">
-    O mundo é pequeno demais para aqueles que sonham, por isso há a necessidade de criar novos! 🚀
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=O mundo%20é%20pequeno%20demais%20;para aqueles%20que%20sonham%20;por isso...%20;Há a necessidade%20de se criar%20novos!%20;&center=true&width=440&height=45&color=EB623F&vCenter=true&pause=1000&size=16" /></a>
 </p>
 
-### Sobre Mim
 
-Fala nego! Me chamo **Daniel Augusto**, e pode-se dizer que sou um contador de histórias. Meu sonho é compartilhar conhecimento de forma gratuita e com muita qualidade. Meu objetivo atual é desbravar o desconhecido, investigando e inventando tudo o que minha mente imaginar. Este é o acervo das minhas criações, onde disponibilizo, de maneira gratuita e documentada, todo o conhecimento que adquiri ao longo do tempo, bem como o necessário para cada criação específica. Sinta-se à vontade para explorar este repositório!
+_*`Sou um contador de histórias`*_. Neste repositório está o acervo das minhas criações, cujo as quais disponibilizo, de maneira gratuita e documentada; Aqui contém todo o conhecimento que adiquiri ao longo do tempo. Sinta-se à vontade para explorar este repositório! 
+
+Atualmente estou desenvolvendo alguns projetos e documentando tudo isso em [meu canal do YouTube](https://www.youtube.com/@mitchzito). Nele detalho mais as etapas de criação desses projetos.
+
+- ***`Terminal Quest`***: Uma serie de videos em meu canal principal onde eu tento recriar jogos utilizando o terminal do computador.
 
 <div align="center">
-    <h3>Tecnologias e ferramentas</h3>
     <a href="https://beacons.ai/danielmilanez">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmilanez&show_icons=true&theme=merko"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmilanez&layout=compact&theme=merko"/>
     </a>
 </div>
 
+
 <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Dani-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-    <img align="center" alt="Dani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Dani-C++" height="30" width="30" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000">
-    <img align="center" alt="Dani-Java.png" height="40" width="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
-    <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Dani-Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+    <img align="center" alt="Dani-C" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
     <img align="center" alt="Dani-ST" height="40" width="40" src="https://raw.githubusercontent.com/jvgoveira/jvgoveira/main/Logos/logo%20ST.png">
-    <img align="center" alt="Dani-RaspberryPi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />    
     <img align="center" alt="Dani-Arduino" height="40" width="40" src="https://img.icons8.com/?size=100&id=11670&format=png&color=000000" />  
+    <img align="center" alt="Dani-RaspberryPi" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />    
     <img align="center" alt="Dani-GameMaker.png" height="40" width="40" src="./icons/icons8-game-maker-48.png" >
-
-
-
-
+    <img align="center" alt="Dani-Python" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Dani-Csharp" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Dani-C++" height="25" width="30" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000">
+    <img align="center" alt="Dani-Java.png" height="40" width="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
+    <img align="center" alt="Dani-Js" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Dani-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Dani-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Dani-Angular" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
 </div>
+<br>
+<br>
+<br>
 
-## Projetos
-
-Aqui estão alguns dos projetos que desenvolvi e colaborei ao longo do tempo:
-
-- **Snake in Trouble**: Um projeto didático de um jogo estilo *Snake* desenvolvido no **GameMaker Studio**. Você pode conferir os tutoriais completos no [meu canal do YouTube](https://www.youtube.com/@mitchzito).
-
-- **Guia do programador python**: Livro didático que estou escrevendo, que será disponibilizado gratuitamente para qualquer um que tenha acesso a este repositório, o intuito do livro é ensinar de maneira prática e objetiva as pessoas o caminho para se tornar um desenvolvedor.
-  
-- **Outros Projetos**: Ao longo do tempo, venho desenvolvendo pequenos projetos em **Python**, **JavaScript** e outras tecnologias, os quais você pode conferir diretamente nos meus repositórios aqui no GitHub.
-
-## Conecte-se Comigo
-
-<div align="center"><br>
-    <a href="https://www.instagram.com/oi.guto" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="mailto:daniel.augusto.milanez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   
-    <a href="https://www.youtube.com/@mitchzito" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</div>
+ <p align="center">
+    <a href="https://www.youtube.com/@mitchzito?sub_confirmation=1">
+        <img alt="Inscritos do Youtube" title="Se inscreva no meu canal!" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQBuYaCL2IY0t_OY6JbZWvw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+    <a href="https://www.youtube.com/c/@mitchzito">
+        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCQBuYaCL2IY0t_OY6JbZWvw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+</p>
+<br>
+<br>
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
