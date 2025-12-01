@@ -4,8 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=O mundo%20é%20pequeno%20demais%20;para aqueles%20que%20sonham%20;por isso...%20;Há a necessidade%20de se criar%20novos!%20;&center=true&width=440&height=45&color=EB623F&vCenter=true&pause=1000&size=16" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=O+mundo+e+pequeno+demais!;Para+aquels+que+sonham;por+isso+.+.+.;A+necessidade+de+criar+novos!&font=Fira%20Code&center=true&color=EB623F&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
@@ -51,4 +50,5 @@ Atualmente estou desenvolvendo alguns projetos e documentando tudo isso em [meu 
 <br>
 <br>
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+<img aligh="center" alt="youtube views" src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg">
+
