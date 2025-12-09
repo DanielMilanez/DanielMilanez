@@ -14,13 +14,6 @@ Atualmente estou desenvolvendo alguns projetos e documentando tudo isso em [meu 
 
 - ***`Terminal Quest`***: Uma serie de videos em meu canal principal onde eu tento recriar jogos utilizando o terminal do computador.
 
-<div align="center">
-    <a href="https://beacons.ai/danielmilanez">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmilanez&show_icons=true&theme=merko"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmilanez&layout=compact&theme=merko"/>
-    </a>
-</div>
-
 
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Dani-C" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
