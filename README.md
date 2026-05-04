@@ -66,28 +66,29 @@ Atualmente estou desenvolvendo alguns projetos e documentando tudo em [meu canal
 ### 📺 Projetinhos
 <p align="center">
   <a href="https://www.youtube.com/shorts/K2YCT5NzDsw">
-    <img src="https://ytcards.demolab.com/?id=K2YCT5NzDsw&title=JOGO+DA+COBRINHA+NA+VIDA+REAL!&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=220&border_radius=5" />
+    <img src="https://ytcards.demolab.com/?id=K2YCT5NzDsw&title=JOGO+DA+COBRINHA+NA+VIDA+REAL!&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=220&border_radius=5" />
   </a>
-
-  <a href="https://www.youtube.com/shorts/lz9Vy8Q9FjA">
-    <img src="https://ytcards.demolab.com/?id=lz9Vy8Q9FjA&title=EU+FIZ+UM+MOUSE!&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=220&border_radius=5" />
-  </a>
+    
+<a href="https://www.youtube.com/shorts/3YWHXu82BKs">
+  <img src="https://ytcards.demolab.com/?id=3YWHXu82BKs&title=PROTOCOLO+DE+COMUNICA%C3%87%C3%83O&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=220&border_radius=5" />
+</a>
 
   <a href="https://www.youtube.com/shorts/5fa3imCekwI">
-    <img src="https://ytcards.demolab.com/?id=5fa3imCekwI&title=CONTADOR+S%C3%8DNCRONO+COM+REGISTRADORES+DE+DESLOCAMENTO&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=220&border_radius=5" />
+    <img src="https://ytcards.demolab.com/?id=5fa3imCekwI&title=CONTADOR+S%C3%8DNCRONO+COM+REGISTRADORES+DE+DESLOCAMENTO&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=220&border_radius=5" />
   </a>
   
   <a href="https://www.youtube.com/shorts/1GoUytvBq1o">
-  <img src="https://ytcards.demolab.com/?id=1GoUytvBq1o&title=SENSOR+DE+PROXIMIDADE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=220&border_radius=5" />
+  <img src="https://ytcards.demolab.com/?id=1GoUytvBq1o&title=SENSOR+DE+PROXIMIDADE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=220&border_radius=5" />
 </a>
 
 <a href="https://www.youtube.com/shorts/l0KdTxk08I8">
-  <img src="https://ytcards.demolab.com/?id=l0KdTxk08I8&title=NIVEL+BOLHA+DIGITAL&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=220&border_radius=5" />
+  <img src="https://ytcards.demolab.com/?id=l0KdTxk08I8&title=NIVEL+BOLHA+DIGITAL&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=220&border_radius=5" />
 </a>
 
-<a href="https://www.youtube.com/shorts/3YWHXu82BKs">
-  <img src="https://ytcards.demolab.com/?id=3YWHXu82BKs&title=PROTOCOLO+DE+COMUNICA%C3%87%C3%83O&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=220&border_radius=5" />
-</a>
+  <a href="https://www.youtube.com/shorts/lz9Vy8Q9FjA">
+    <img src="https://ytcards.demolab.com/?id=lz9Vy8Q9FjA&title=EU+FIZ+UM+MOUSE!&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=220&border_radius=5" />
+  </a>
+  
 </p>
 
 <!-- END YOUTUBE-CARDS -->
