@@ -2,7 +2,15 @@
     Olá! Eu me chamo <a href="https://www.instagram.com/oi.guto" target="_blank">Daniel Augusto</a>
 </h2>
 
-**`Sou um contador de histórias`**. Neste repositório está o acervo das minhas criações, as quais disponibilizo de maneira gratuita e documentada. Aqui contém o conhecimento que adquiri ao longo do tempo. Sinta-se à vontade para explorar!
+Na internet, muitos me conhecem como Mitch. Gosto de dizer que **`sou um contador de histórias`**, mas sem sobra de duvidas o que eu mais gosto de fazer é `**criar coisas**`. 
+
+Quando era mais novo, quando tinha por volta de meus 8 ou 9 anos de idade, minha história começou, em meu quarto, desmontando relógios e tentando conserta-los. Foi nesse instante que eu fiquei apaixonado por relógios, e por aprender, e desde então eu nunca mais parei.
+
+Ah... A titulo de curiosidade o relógio que eu tava tentando consertar era um CASIO MTP-1183A-1A
+
+Bom, hoje eu atuo profissionalmente na área de tecnologia e engenharia, tenho experiência em desenvolvimento de sistemas, inspeção de qualidade, automação e hardware embarcado. Também fui competidor da WorldSkills em eletrônica, fui consagrado como `o melhor do Distrito Federal` e conquistei um destaque entre os melhores do Brasil.
+
+Aqui neste repositório está a coletanea de minhas criações, as quais disponibilizo de maneira gratuita e documentada. Sinta-se à vontade para explorar!
 
 ### 🎥 Projetos em Destaque
 
