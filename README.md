@@ -20,6 +20,18 @@ Atualmente estou desenvolvendo alguns projetos e documentando tudo em [meu canal
 
 * ***`Terminal Quest`***: Uma série de vídeos no meu canal principal onde tento recriar jogos utilizando apenas o terminal do computador.
 
+### Vídeos
+
+### 📺 Últimos Vídeos
+
+<p align="center">
+
+[![COACHS, PAREM de dizer que eu NÃO sou LIVRE!](https://ytcards.demolab.com/?id=v4p68bBkjrI&title=COACHS,+PAREM+de+dizer+que+eu+N%C3%83O+sou+LIVRE!&lang=pt-br&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "COACHS, PAREM de dizer que eu NÃO sou LIVRE!")](https://www.youtube.com/watch?v=v4p68bBkjrI)
+
+</p>
+
+<!-- END YOUTUBE-CARDS -->
+
 ### 🧠 Minhas Áreas de Conhecimento
 
 <p align="center">
