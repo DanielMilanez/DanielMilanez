@@ -2,15 +2,17 @@
     Olá! Eu me chamo <a href="https://www.instagram.com/oi.guto" target="_blank">Daniel Augusto</a>
 </h2>
 
-Na internet, muitos me conhecem como Mitch. Gosto de dizer que **`sou um contador de histórias`**, mas sem sobra de duvidas o que eu mais gosto de fazer é **`criar coisas`**. 
+Na internet, muitos me conhecem como Mitch. Gosto de dizer que **`sou um contador de histórias`**, mas sem sombra de dúvidas o que eu mais gosto de fazer é **`criar coisas`**. 
 
-Quando era mais novo, quando tinha por volta de meus 8 ou 9 anos de idade, minha história começou, em meu quarto, desmontando relógios e tentando conserta-los. Foi nesse instante que eu fiquei apaixonado por relógios, e por aprender, e desde então eu nunca mais parei.
+Quando era mais novo, quando tinha por volta de meus 8 ou 9 anos de idade, minha história começou, em meu quarto, desmontando relógios e tentando consertá-los. Foi nesse instante que eu fiquei apaixonado por relógios, e por aprender, e desde então eu nunca mais parei.
 
-Ah... A titulo de curiosidade o relógio que eu tava tentando consertar era um CASIO MTP-1183A-1A
+Ah... A título de curiosidade o relógio que eu tava tentando consertar era um CASIO MTP-1183A-1A
 
 Bom, hoje eu atuo profissionalmente na área de tecnologia e engenharia, tenho experiência em desenvolvimento de sistemas, inspeção de qualidade, automação e hardware embarcado. Também fui competidor da WorldSkills em eletrônica, fui consagrado como `o melhor do Distrito Federal` e conquistei um destaque entre os melhores do Brasil.
 
-Aqui neste repositório está a coletanea de minhas criações, as quais disponibilizo de maneira gratuita e documentada. Sinta-se à vontade para explorar!
+Aqui neste repositório está a coletânea das minhas criações, as quais disponibilizo gratuitamente e de forma documentada. Sinta-se à vontade para explorar!
+
+E caso queira compartilhar suas ideias, fique à vontade para contribuir com algum dos meus repositórios. Sou um eterno aprendiz e tenho certeza de que ainda posso aprender muito com você.
 
 ### 🎥 Projetos em Destaque
 
