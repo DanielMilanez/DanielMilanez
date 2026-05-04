@@ -2,7 +2,7 @@
     Olá! Eu me chamo <a href="https://www.instagram.com/oi.guto" target="_blank">Daniel Augusto</a>
 </h2>
 
-Na internet, muitos me conhecem como Mitch. Gosto de dizer que **`sou um contador de histórias`**, mas sem sobra de duvidas o que eu mais gosto de fazer é `**criar coisas**`. 
+Na internet, muitos me conhecem como Mitch. Gosto de dizer que **`sou um contador de histórias`**, mas sem sobra de duvidas o que eu mais gosto de fazer é **`criar coisas`**. 
 
 Quando era mais novo, quando tinha por volta de meus 8 ou 9 anos de idade, minha história começou, em meu quarto, desmontando relógios e tentando conserta-los. Foi nesse instante que eu fiquei apaixonado por relógios, e por aprender, e desde então eu nunca mais parei.
 
