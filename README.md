@@ -61,6 +61,8 @@ Atualmente estou desenvolvendo alguns projetos e documentando tudo em [meu canal
 <p align="center">
     <img src="./icons/icons8-game-maker-48.png" width="50"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50"/>
+          
 </p>
 
 <p align="center">Que tal saber mais sobre essa fantástica história? Siga-me no youtube e desbrave um úniverso de invenções e criações malucas!</p>
