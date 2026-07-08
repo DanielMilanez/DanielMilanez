@@ -45,7 +45,8 @@ Atualmente estou desenvolvendo alguns projetos e documentando tudo em [meu canal
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>     
+    <img src="./icons/LTSpice.jpg" width="50"/>    
 </p>
 
 <p align="center">Que tal saber mais sobre essa fantástica história? Siga-me no <a href="https://www.youtube.com/@mitchzito"> youtube</a> e desbrave um úniverso de invenções e criações malucas!</p>
