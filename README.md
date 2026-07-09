@@ -8,7 +8,7 @@ Quando era mais novo, quando tinha por volta de meus 8 ou 9 anos de idade, minha
 
 Ah... A título de curiosidade o relógio que eu tava tentando consertar era um CASIO MTP-1183A-1A
 
-Bom, hoje eu atuo profissionalmente na área de tecnologia e engenharia, tenho experiência em desenvolvimento de sistemas, inspeção de qualidade, automação e hardware embarcado. Também fui competidor da WorldSkills em eletrônica, fui nomeado como `o melhor do Distrito Federal` e conquistei um destaque entre os melhores do Brasil.
+Bom, hoje eu atuo profissionalmente na área de tecnologia e engenharia, tenho experiência em desenvolvimento de sistemas, inspeção de qualidade, automação e hardware embarcado. Também fui competidor da WorldSkills em eletrônica, no qual conquistei o posto de  `o melhor do Distrito Federal` me classificando para etapa nacional na qual conquistei um destaque entre os 5 melhores do Brasil.
 
 Aqui neste repositório está a coletânea das minhas criações, as quais disponibilizo gratuitamente e de forma documentada. Sinta-se à vontade para explorar!
 
